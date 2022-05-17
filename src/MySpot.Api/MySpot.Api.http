@@ -1,0 +1,13 @@
+@url = http://localhost:5000
+
+###
+GET {{url}}/example
+
+###
+POST {{url}}/example
+
+###
+PUT {{url}}/example
+
+###
+DELETE {{url}}/example
